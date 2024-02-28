@@ -22,7 +22,7 @@
                         <img src="https://zangticsdigital.com/storage/web-logo-rr-1.png"
                     </center>
                     <div class="mt-3">
-                        <a href="script.php" class="btn btn-danger">Click to Download PDF</a>
+                        <a href="script.php" class="btn btn-danger"> Download PDF </a>
                     </div>
                 </div>
             </div>
